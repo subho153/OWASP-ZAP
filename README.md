@@ -1,5 +1,6 @@
 # OWASP-ZAP
-**How to install **
+# How to install
+
 sudo apt update
 sudo apt install openjdk-17-jre-headless
 sudo apt install libxrender1 libxtst6 libxi6 libgdk-pixbuf2.0-0
